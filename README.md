@@ -59,7 +59,3 @@ Bem-vindo ao repositório do meu site pessoal. Este site foi desenvolvido para s
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 Se tiver alguma dúvida ou sugestão, entre em contato!
-
----
-
-Espero que isso atenda às suas necessidades. Se precisar de mais algum ajuste ou tiver outras perguntas, estou à disposição! 🚀
